@@ -1,0 +1,12 @@
+{
+  "port": "4723",
+  "device": "local",
+  "platformName": "android",
+  "deviceName": "oneplus",
+  "app": "",
+  "appPackage": "org.khanacademy.android",
+  "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+  "user_id": "",
+  "token": "",
+  "app_id": ""
+}
